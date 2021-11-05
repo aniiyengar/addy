@@ -1,0 +1,16 @@
+{
+  "name": "addy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hdaddressgenerator": "^1.0.7",
+    "keccak": "^3.0.2",
+    "secp256k1": "^4.0.2"
+  }
+}
